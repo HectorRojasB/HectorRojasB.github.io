@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'CandaBold'; /*a name to be used later*/
-    src: url('fonts/gibson-bold.ttf'); /*URL to font*/
+    font-family: 'CandaBold'; 
+    src:url('fonts/gibson-bold.ttf') format('truetype');
 }
 
 body
