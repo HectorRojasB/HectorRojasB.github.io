@@ -12,13 +12,14 @@ h1
 	font-family: 'Kanit', Arial, sans-serif;
     color:#ffffff;
     font-size: 68px;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
  
 }
 h2
 {
+	font-family: 'Kanit', Arial, sans-serif;
 	color:#17252a;
-	font-size: 40px;
+	font-size: 34px;
 }
 .acerca
 {
