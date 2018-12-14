@@ -1,5 +1,9 @@
 body
 {
+	
+}
+.titulo
+{
 	background-color:#3AAFA9;
 }
 h1
@@ -11,4 +15,8 @@ h1
 h2
 {
 	color:#17252a;
+}
+.acerca
+{
+	background-color:#ffffff;
 }
