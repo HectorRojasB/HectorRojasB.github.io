@@ -11,9 +11,6 @@ html,body
 	width: 100%;
 	line-height: normal;
 }
-html>body .titulo {
-  height:auto;
-}
 h1
 {
 	font-family: 'Kanit', Arial, sans-serif;
