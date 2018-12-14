@@ -1,7 +1,6 @@
 @font-face {
 font-family: "CandaBold";
 src: url("fonts/gibson-bold.ttf");
-src:url('fonts/gibson-bold.ttf') format('truetype');
 }
 
 body
@@ -21,10 +20,11 @@ h1
 	font-family: 'CandaBold', Arial, sans-serif;
     color:#ffffff;
     font-size: 68px;
+    font-weight:normal;
+    font-style:bold;
 }
 h2
 {
-	font-family: 'Roboto', serif;
 	color:#17252a;
 	font-size: 40px;
 }
