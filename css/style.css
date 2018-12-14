@@ -11,13 +11,15 @@ body
 }
 h1
 {
-	font-family: 'Roboto', bold;
+	font-family: 'Roboto', serif;
     color:#ffffff;
     font-size: 68px;
 }
 h2
 {
+	font-family: 'Roboto', serif;
 	color:#17252a;
+	font-size: 40px;
 }
 .acerca
 {
